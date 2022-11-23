@@ -1,6 +1,1 @@
-hello sample git tt 
-=======
-hello sample git
-This is a test from cnnw
-Added by cnnw
->>>>>>> 11729f18c077e1baa9d803883aa9caa33dfbe0d0
+dev 2 text
